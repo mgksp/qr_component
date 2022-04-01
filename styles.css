@@ -7,7 +7,7 @@
 }
 
 :root {
-  --clr-dark-blue: hsl(218, 44%, 22%);
+  --clr-dark-blue: 218 44% 22%;
 }
 
 body {
@@ -28,6 +28,7 @@ body {
   gap: 1rem;
   padding: 1.4rem;
   border-radius: 1.4rem;
+  box-shadow: 5px 5px 10px 1px hsl(var(--clr-dark-blue) / 0.3);
 }
 
 .img-container {
@@ -42,7 +43,8 @@ body {
   object-fit: cover;
 }
 
-.card-title {
+.card-title > h1 {
+  font-size: 1.2rem;
   font-weight: 700;
   color: var(--clr-dark-blue);
 }
