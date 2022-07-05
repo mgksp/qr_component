@@ -1,9 +1,24 @@
-# FEM - qr code component
-### Links
-challenge from [FrontendMentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)\
-live site [here](https://mgksp.github.io/qr_component/)
+# FEM - QR Code Component
+
+### links
+
+[Challenge From FrontendMentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)\
+[Live Site here](https://mgksp.github.io/qr_component/)
+
+### Built with
+
+- html
+- css
+
 ### Screenshots
-Mobile version \
-![screenshot mobile](./screenshots/qr_code_mobile.png)\
-Desktop version \
-![screenshot desktop](./screenshots/qr_code_desktop.png)
+
+<table>
+  <tr>
+    <td>Mobile Version</td>
+    <td>Desktop Version</td>
+  </tr>
+  <tr valign="top">
+    <td><img src="./screenshots/qr_code_mobile.png" alt="mobile version" /></td>
+    <td><img src="./screenshots/qr_code_desktop.png" alt="desktop version" /></td>
+  </tr>
+</table>
